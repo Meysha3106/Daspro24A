@@ -1,0 +1,1001 @@
+Usia,Gender,Jurusan,Organisasi,Tingkat Aktif,Semester,Nilai Etika,Nilai Softskill,Kontribusi,Penghargaan
+18,L,TE,HIMA,Kurang Aktif,5,3.89,3.4,Rendah,Tidak
+19,P,TI,UKM Musik,Pasif,2,3.32,3.64,Tinggi,Tidak
+19,L,TE,UKM Musik,Kurang Aktif,8,3.68,2.53,Sedang,Tidak
+23,P,TI,UKM Musik,Aktif,6,2.08,3.34,Tinggi,Ya
+22,P,TE,Tidak Aktif,Pasif,7,2.58,3.47,Rendah,Ya
+20,P,TS,Tidak Aktif,Sangat Aktif,7,3.24,3.71,Tinggi,Ya
+18,P,TM,BEM,Aktif,4,2.36,3.39,Rendah,Ya
+24,L,TM,UKM Musik,Aktif,8,2.77,2.33,Rendah,Tidak
+22,L,TI,BEM,Sangat Aktif,2,2.62,2.97,Rendah,Ya
+20,P,TE,UKM Olahraga,Kurang Aktif,1,3.55,2.22,Sedang,Tidak
+20,P,TS,BEM,Sangat Aktif,3,2.65,2.6,Rendah,Tidak
+18,L,TI,UKM Olahraga,Aktif,4,2.25,2.51,Rendah,Tidak
+22,P,TE,BEM,Kurang Aktif,4,2.27,2.16,Sedang,Tidak
+19,L,TM,UKM Musik,Aktif,8,2.96,3.75,Tinggi,Tidak
+21,L,TS,BEM,Sangat Aktif,1,3.02,3.62,Rendah,Tidak
+24,P,TE,BEM,Aktif,4,2.35,2.41,Tinggi,Tidak
+24,L,TM,UKM Olahraga,Kurang Aktif,7,3.14,2.81,Tinggi,Ya
+19,P,TM,UKM Olahraga,Pasif,5,2.41,2.11,Rendah,Ya
+21,L,TE,UKM Musik,Sangat Aktif,4,3.23,2.41,Sedang,Ya
+22,L,TE,UKM Olahraga,Pasif,6,3.05,3.32,Rendah,Ya
+22,P,TS,UKM Musik,Kurang Aktif,3,3.78,2.13,Sedang,Ya
+19,L,TI,BEM,Pasif,7,3.02,2.55,Rendah,Tidak
+23,L,TM,BEM,Kurang Aktif,3,2.48,3.45,Sedang,Ya
+19,L,TI,HIMA,Pasif,4,2.14,2.74,Tinggi,Ya
+20,P,TS,UKM Musik,Pasif,5,2.33,2.79,Sedang,Tidak
+23,L,TM,UKM Musik,Kurang Aktif,4,3.13,3.46,Rendah,Tidak
+23,L,TE,HIMA,Kurang Aktif,4,3.71,2.24,Tinggi,Tidak
+20,P,TS,HIMA,Aktif,7,3.01,2.04,Rendah,Tidak
+22,L,TE,BEM,Kurang Aktif,5,3.58,2.57,Tinggi,Ya
+22,P,TS,Tidak Aktif,Pasif,6,2.27,3.3,Rendah,Tidak
+18,L,TI,UKM Musik,Sangat Aktif,3,3.5,2.2,Rendah,Tidak
+19,P,TS,HIMA,Kurang Aktif,2,2.47,2.34,Tinggi,Ya
+22,L,TE,UKM Olahraga,Sangat Aktif,7,3.33,2.32,Sedang,Ya
+24,L,TS,UKM Olahraga,Kurang Aktif,5,3.24,2.9,Sedang,Tidak
+24,L,TI,Tidak Aktif,Aktif,4,2.52,2.53,Rendah,Ya
+20,L,TE,BEM,Pasif,1,3.13,3.17,Rendah,Tidak
+19,L,TM,BEM,Sangat Aktif,6,2.91,2.52,Rendah,Ya
+23,P,TE,UKM Olahraga,Aktif,3,2.94,3.71,Sedang,Ya
+21,L,TS,Tidak Aktif,Kurang Aktif,6,2.88,2.56,Tinggi,Ya
+19,L,TM,UKM Musik,Sangat Aktif,1,2.77,2.69,Tinggi,Tidak
+21,L,TE,HIMA,Kurang Aktif,6,2.9,3.68,Rendah,Ya
+24,P,TI,BEM,Kurang Aktif,3,2.39,3.29,Tinggi,Tidak
+21,P,TI,BEM,Aktif,2,2.29,2.82,Tinggi,Tidak
+18,L,TS,BEM,Pasif,6,3.34,2.75,Tinggi,Tidak
+19,L,TS,UKM Olahraga,Kurang Aktif,1,2.41,3.34,Sedang,Tidak
+24,L,TS,UKM Musik,Kurang Aktif,8,3.17,2.18,Sedang,Ya
+18,L,TM,UKM Musik,Sangat Aktif,2,2.33,2.62,Sedang,Tidak
+18,P,TS,Tidak Aktif,Sangat Aktif,6,3.7,2.28,Rendah,Tidak
+19,L,TI,UKM Olahraga,Kurang Aktif,1,2.91,3.54,Tinggi,Tidak
+24,L,TE,UKM Musik,Pasif,3,3.14,3.26,Sedang,Tidak
+21,P,TS,Tidak Aktif,Aktif,5,3.92,3.36,Rendah,Ya
+19,L,TE,UKM Musik,Kurang Aktif,5,2.89,3.72,Rendah,Tidak
+20,P,TS,BEM,Sangat Aktif,2,2.71,2.68,Rendah,Ya
+20,P,TS,Tidak Aktif,Aktif,4,2.34,2.04,Tinggi,Ya
+21,L,TS,HIMA,Pasif,3,2.24,3.44,Sedang,Ya
+22,L,TE,BEM,Pasif,7,3.02,3.59,Tinggi,Ya
+20,L,TM,BEM,Kurang Aktif,1,2.82,2.41,Tinggi,Tidak
+20,L,TM,BEM,Sangat Aktif,4,2.75,2.78,Tinggi,Ya
+20,L,TE,HIMA,Kurang Aktif,5,3.04,3.44,Tinggi,Ya
+18,L,TI,BEM,Sangat Aktif,6,2.48,2.47,Rendah,Tidak
+23,P,TS,HIMA,Aktif,2,2.7,3.02,Tinggi,Ya
+23,P,TE,BEM,Pasif,4,3.22,2.4,Sedang,Ya
+20,L,TM,Tidak Aktif,Kurang Aktif,7,2.89,3.42,Rendah,Ya
+21,P,TI,Tidak Aktif,Aktif,6,3.65,3.33,Tinggi,Ya
+18,P,TE,HIMA,Aktif,4,2.21,3.03,Tinggi,Ya
+20,L,TS,Tidak Aktif,Pasif,3,2.13,2.92,Rendah,Ya
+19,P,TS,Tidak Aktif,Kurang Aktif,5,3.74,3.64,Rendah,Tidak
+20,L,TS,UKM Olahraga,Kurang Aktif,4,3.97,3.72,Rendah,Tidak
+22,P,TM,Tidak Aktif,Pasif,2,3.49,3.12,Sedang,Ya
+20,L,TI,HIMA,Kurang Aktif,8,3.93,3.93,Sedang,Tidak
+20,L,TI,UKM Olahraga,Aktif,7,3.63,3.55,Tinggi,Ya
+21,L,TS,UKM Olahraga,Pasif,4,2.2,3.41,Rendah,Ya
+21,L,TS,Tidak Aktif,Sangat Aktif,3,3.04,3.16,Tinggi,Ya
+24,P,TS,Tidak Aktif,Sangat Aktif,8,2.72,2.3,Sedang,Ya
+23,P,TI,HIMA,Pasif,5,3.74,3.12,Sedang,Ya
+19,L,TM,HIMA,Kurang Aktif,3,2.95,3.21,Rendah,Tidak
+22,P,TS,UKM Olahraga,Kurang Aktif,3,3.21,3.29,Sedang,Ya
+23,P,TE,UKM Musik,Sangat Aktif,3,3.38,2.86,Sedang,Tidak
+21,P,TM,UKM Olahraga,Aktif,4,3.5,2.4,Tinggi,Ya
+22,L,TE,HIMA,Sangat Aktif,3,2.01,2.36,Sedang,Ya
+24,L,TS,UKM Olahraga,Aktif,3,3.93,2.98,Tinggi,Tidak
+24,L,TM,HIMA,Aktif,7,2.87,3.6,Sedang,Ya
+24,P,TM,Tidak Aktif,Pasif,8,2.14,2.99,Sedang,Tidak
+22,P,TE,UKM Olahraga,Sangat Aktif,2,2.46,2.48,Rendah,Ya
+22,P,TM,BEM,Pasif,3,3.82,3.63,Tinggi,Ya
+20,L,TE,Tidak Aktif,Kurang Aktif,5,2.9,3.27,Rendah,Tidak
+20,L,TE,UKM Olahraga,Sangat Aktif,7,3.0,3.74,Sedang,Ya
+23,P,TI,HIMA,Aktif,7,2.06,2.44,Sedang,Tidak
+21,P,TM,HIMA,Sangat Aktif,4,3.17,2.25,Rendah,Ya
+19,L,TS,HIMA,Pasif,1,3.3,3.7,Rendah,Ya
+22,P,TE,HIMA,Pasif,6,2.96,2.79,Rendah,Ya
+21,L,TI,HIMA,Aktif,8,3.99,2.73,Tinggi,Ya
+19,P,TE,Tidak Aktif,Sangat Aktif,7,2.35,3.77,Tinggi,Tidak
+18,P,TS,HIMA,Sangat Aktif,6,3.0,3.44,Sedang,Ya
+19,P,TS,UKM Musik,Sangat Aktif,5,3.34,3.49,Tinggi,Ya
+21,P,TM,Tidak Aktif,Kurang Aktif,3,2.61,2.24,Tinggi,Tidak
+20,L,TS,HIMA,Aktif,8,3.93,3.55,Rendah,Ya
+20,L,TS,HIMA,Pasif,4,2.98,2.83,Sedang,Ya
+19,P,TI,Tidak Aktif,Sangat Aktif,3,3.35,3.42,Sedang,Ya
+20,L,TE,BEM,Sangat Aktif,3,2.28,3.9,Rendah,Tidak
+20,P,TI,HIMA,Pasif,3,2.49,3.31,Rendah,Ya
+24,P,TS,UKM Olahraga,Sangat Aktif,6,3.29,3.31,Tinggi,Tidak
+24,P,TM,UKM Musik,Kurang Aktif,6,2.81,3.9,Tinggi,Ya
+23,P,TS,BEM,Pasif,5,3.72,2.48,Sedang,Ya
+23,L,TE,BEM,Aktif,5,3.51,3.41,Sedang,Ya
+21,P,TI,HIMA,Pasif,7,2.03,3.49,Rendah,Ya
+21,P,TM,BEM,Pasif,8,2.85,2.11,Sedang,Tidak
+23,P,TI,UKM Olahraga,Pasif,6,2.58,2.64,Rendah,Ya
+24,L,TM,HIMA,Aktif,7,3.76,2.66,Tinggi,Ya
+24,P,TM,HIMA,Aktif,1,2.43,2.81,Tinggi,Tidak
+22,P,TM,UKM Olahraga,Sangat Aktif,5,2.86,3.41,Rendah,Ya
+23,L,TI,BEM,Aktif,2,2.8,3.2,Tinggi,Tidak
+21,L,TM,Tidak Aktif,Sangat Aktif,7,2.86,2.79,Tinggi,Ya
+22,P,TE,UKM Musik,Sangat Aktif,8,2.89,2.72,Sedang,Tidak
+18,L,TS,HIMA,Aktif,7,2.88,2.9,Sedang,Ya
+20,P,TI,UKM Olahraga,Sangat Aktif,2,3.02,3.2,Sedang,Tidak
+21,L,TI,HIMA,Aktif,6,3.64,3.03,Rendah,Tidak
+22,L,TE,UKM Olahraga,Pasif,4,2.27,3.26,Rendah,Tidak
+22,P,TE,BEM,Pasif,3,3.49,3.01,Rendah,Tidak
+19,P,TE,UKM Musik,Sangat Aktif,4,2.31,2.75,Tinggi,Tidak
+22,P,TE,HIMA,Sangat Aktif,8,2.02,3.99,Rendah,Ya
+18,P,TI,BEM,Aktif,2,2.54,3.87,Rendah,Tidak
+22,P,TE,UKM Musik,Pasif,4,2.82,3.11,Rendah,Ya
+20,L,TS,Tidak Aktif,Sangat Aktif,7,2.79,3.78,Tinggi,Ya
+23,P,TM,Tidak Aktif,Pasif,3,2.43,3.37,Tinggi,Ya
+22,P,TE,Tidak Aktif,Kurang Aktif,1,2.95,3.93,Rendah,Ya
+18,L,TM,BEM,Kurang Aktif,4,3.51,2.11,Tinggi,Ya
+19,L,TM,Tidak Aktif,Pasif,1,2.35,2.76,Sedang,Tidak
+20,P,TE,BEM,Aktif,8,2.98,2.99,Tinggi,Tidak
+18,P,TM,HIMA,Sangat Aktif,3,2.6,2.5,Sedang,Tidak
+20,L,TI,HIMA,Kurang Aktif,1,3.82,2.71,Rendah,Tidak
+23,L,TE,Tidak Aktif,Aktif,5,3.42,2.78,Rendah,Ya
+18,L,TE,UKM Olahraga,Aktif,2,2.48,3.43,Tinggi,Ya
+18,P,TM,UKM Musik,Kurang Aktif,1,3.3,2.46,Sedang,Tidak
+18,P,TM,Tidak Aktif,Pasif,6,3.02,3.63,Sedang,Ya
+18,L,TE,UKM Musik,Pasif,4,2.91,2.94,Tinggi,Tidak
+22,L,TE,Tidak Aktif,Aktif,5,2.03,3.73,Tinggi,Ya
+18,L,TE,UKM Musik,Aktif,6,2.82,2.26,Tinggi,Tidak
+21,L,TE,UKM Olahraga,Kurang Aktif,6,2.85,2.96,Rendah,Tidak
+22,P,TM,UKM Olahraga,Pasif,1,2.41,2.27,Tinggi,Tidak
+18,P,TS,HIMA,Kurang Aktif,6,2.49,3.57,Tinggi,Tidak
+24,P,TE,UKM Olahraga,Pasif,1,2.7,2.07,Rendah,Tidak
+20,P,TM,Tidak Aktif,Aktif,4,2.68,3.29,Rendah,Ya
+21,L,TE,HIMA,Pasif,8,2.03,3.94,Rendah,Ya
+20,L,TI,BEM,Aktif,8,2.67,2.16,Sedang,Ya
+22,L,TS,UKM Musik,Sangat Aktif,5,2.19,2.33,Tinggi,Ya
+23,P,TI,Tidak Aktif,Kurang Aktif,5,2.54,2.17,Sedang,Tidak
+24,P,TE,UKM Olahraga,Sangat Aktif,1,3.8,3.04,Sedang,Tidak
+22,P,TI,UKM Musik,Sangat Aktif,1,4.0,2.39,Rendah,Tidak
+19,P,TI,HIMA,Aktif,2,3.4,3.41,Sedang,Tidak
+23,L,TM,UKM Musik,Kurang Aktif,5,3.97,2.81,Rendah,Ya
+20,L,TE,UKM Musik,Pasif,5,3.67,2.17,Sedang,Tidak
+23,P,TE,HIMA,Pasif,7,2.38,2.44,Rendah,Ya
+19,L,TI,HIMA,Pasif,6,2.58,2.81,Sedang,Ya
+21,P,TE,UKM Olahraga,Kurang Aktif,6,2.9,3.56,Sedang,Tidak
+24,L,TM,UKM Olahraga,Sangat Aktif,7,2.62,2.24,Sedang,Tidak
+23,L,TM,Tidak Aktif,Kurang Aktif,7,3.69,3.41,Tinggi,Tidak
+18,P,TS,BEM,Sangat Aktif,1,3.34,3.3,Rendah,Tidak
+22,P,TM,HIMA,Sangat Aktif,1,2.06,2.29,Sedang,Ya
+22,L,TM,BEM,Pasif,5,2.85,2.17,Tinggi,Tidak
+21,P,TS,UKM Musik,Sangat Aktif,1,3.18,2.98,Rendah,Ya
+21,P,TM,UKM Olahraga,Pasif,4,2.86,2.27,Sedang,Ya
+18,P,TI,BEM,Kurang Aktif,1,3.47,3.78,Tinggi,Ya
+18,L,TI,HIMA,Aktif,1,3.95,3.08,Tinggi,Tidak
+23,L,TS,BEM,Pasif,7,2.22,2.82,Sedang,Ya
+18,P,TE,Tidak Aktif,Pasif,5,2.74,2.2,Rendah,Ya
+23,P,TI,BEM,Pasif,5,2.4,2.8,Tinggi,Ya
+22,L,TI,BEM,Aktif,2,2.65,3.68,Rendah,Tidak
+19,L,TS,HIMA,Sangat Aktif,6,3.68,2.07,Sedang,Ya
+23,L,TI,BEM,Aktif,8,3.99,2.66,Sedang,Tidak
+20,L,TE,UKM Olahraga,Sangat Aktif,3,3.68,2.77,Sedang,Tidak
+20,L,TI,UKM Olahraga,Sangat Aktif,8,3.13,2.84,Tinggi,Tidak
+20,P,TM,BEM,Kurang Aktif,3,2.95,3.1,Sedang,Tidak
+21,L,TE,UKM Olahraga,Kurang Aktif,3,2.61,3.18,Tinggi,Ya
+24,L,TM,UKM Musik,Sangat Aktif,7,2.0,2.48,Sedang,Tidak
+24,P,TI,HIMA,Kurang Aktif,6,2.38,3.23,Tinggi,Ya
+19,P,TS,UKM Olahraga,Sangat Aktif,1,3.84,3.52,Sedang,Tidak
+18,P,TS,Tidak Aktif,Kurang Aktif,5,3.23,3.18,Tinggi,Tidak
+23,P,TS,UKM Musik,Kurang Aktif,8,2.05,2.82,Sedang,Ya
+21,L,TM,HIMA,Pasif,2,3.25,3.4,Sedang,Tidak
+20,P,TM,Tidak Aktif,Sangat Aktif,7,2.08,2.12,Rendah,Tidak
+23,P,TI,UKM Musik,Kurang Aktif,8,2.23,3.17,Sedang,Tidak
+24,L,TE,HIMA,Pasif,3,2.49,3.82,Tinggi,Ya
+22,L,TM,BEM,Aktif,4,2.1,3.73,Sedang,Tidak
+18,P,TE,Tidak Aktif,Aktif,5,3.2,2.18,Tinggi,Ya
+24,P,TI,Tidak Aktif,Kurang Aktif,4,3.51,2.27,Tinggi,Tidak
+21,P,TE,UKM Olahraga,Pasif,7,3.87,2.69,Tinggi,Tidak
+21,P,TE,UKM Olahraga,Aktif,7,3.99,2.56,Tinggi,Ya
+20,P,TM,HIMA,Aktif,5,2.29,3.92,Sedang,Ya
+18,L,TS,BEM,Pasif,2,3.32,2.08,Rendah,Ya
+19,L,TS,UKM Musik,Kurang Aktif,6,2.43,3.43,Tinggi,Ya
+21,L,TM,UKM Olahraga,Aktif,3,3.78,3.98,Rendah,Ya
+23,L,TS,HIMA,Aktif,7,2.76,2.74,Rendah,Ya
+21,P,TS,UKM Musik,Kurang Aktif,7,3.6,2.33,Tinggi,Ya
+20,L,TE,Tidak Aktif,Aktif,6,2.57,3.65,Rendah,Tidak
+20,P,TI,UKM Olahraga,Sangat Aktif,6,2.88,3.2,Sedang,Ya
+18,L,TS,Tidak Aktif,Aktif,3,3.81,2.46,Tinggi,Ya
+24,L,TE,UKM Musik,Aktif,2,3.58,3.96,Rendah,Tidak
+18,L,TM,UKM Musik,Sangat Aktif,1,2.75,2.36,Tinggi,Ya
+21,L,TS,UKM Musik,Sangat Aktif,5,2.32,3.06,Rendah,Tidak
+22,P,TE,UKM Olahraga,Aktif,7,2.3,3.44,Rendah,Tidak
+19,L,TI,UKM Musik,Pasif,4,2.59,3.29,Tinggi,Tidak
+22,P,TI,UKM Musik,Aktif,6,3.59,2.84,Rendah,Tidak
+18,L,TI,HIMA,Pasif,4,2.85,2.61,Sedang,Tidak
+22,L,TE,Tidak Aktif,Sangat Aktif,7,3.41,3.75,Rendah,Ya
+19,L,TE,BEM,Pasif,2,3.38,3.27,Sedang,Ya
+19,P,TI,Tidak Aktif,Kurang Aktif,6,2.32,3.05,Rendah,Ya
+21,L,TM,Tidak Aktif,Sangat Aktif,2,2.25,3.42,Tinggi,Tidak
+24,P,TM,Tidak Aktif,Kurang Aktif,2,3.04,2.38,Sedang,Ya
+19,L,TI,UKM Olahraga,Sangat Aktif,5,3.41,2.67,Tinggi,Ya
+19,P,TS,UKM Olahraga,Sangat Aktif,8,3.39,2.79,Sedang,Ya
+19,P,TS,HIMA,Aktif,5,2.02,4.0,Tinggi,Tidak
+21,L,TM,UKM Musik,Pasif,3,2.07,3.88,Sedang,Ya
+21,P,TI,UKM Musik,Sangat Aktif,3,3.34,3.66,Sedang,Tidak
+20,P,TM,UKM Musik,Kurang Aktif,3,3.12,2.41,Sedang,Tidak
+23,L,TI,UKM Olahraga,Pasif,3,3.12,3.43,Rendah,Tidak
+21,L,TM,Tidak Aktif,Aktif,7,2.83,2.28,Rendah,Tidak
+20,L,TE,BEM,Aktif,7,2.67,3.68,Rendah,Tidak
+23,L,TI,UKM Olahraga,Sangat Aktif,8,2.3,3.08,Tinggi,Ya
+22,P,TM,UKM Olahraga,Pasif,2,3.28,3.97,Tinggi,Tidak
+20,L,TS,UKM Musik,Pasif,5,2.65,3.28,Rendah,Ya
+23,L,TM,UKM Musik,Aktif,6,2.88,3.8,Rendah,Ya
+22,P,TS,HIMA,Aktif,4,3.44,3.34,Rendah,Tidak
+20,P,TM,UKM Musik,Aktif,4,2.24,2.19,Rendah,Ya
+18,P,TM,UKM Musik,Kurang Aktif,1,2.87,2.48,Tinggi,Tidak
+20,L,TI,UKM Musik,Sangat Aktif,5,3.1,3.64,Rendah,Ya
+20,L,TE,UKM Olahraga,Aktif,7,3.49,2.11,Tinggi,Tidak
+22,L,TM,BEM,Aktif,2,3.23,3.78,Tinggi,Tidak
+21,L,TE,HIMA,Kurang Aktif,3,2.44,3.32,Sedang,Ya
+18,L,TI,HIMA,Sangat Aktif,3,2.71,3.1,Sedang,Tidak
+23,P,TE,Tidak Aktif,Pasif,2,2.46,3.33,Rendah,Tidak
+19,L,TS,UKM Musik,Aktif,7,3.84,3.7,Sedang,Ya
+18,L,TS,BEM,Sangat Aktif,6,3.27,2.29,Rendah,Ya
+18,L,TI,HIMA,Kurang Aktif,2,3.35,2.37,Tinggi,Ya
+22,P,TE,UKM Olahraga,Pasif,3,2.79,3.24,Rendah,Ya
+21,P,TS,Tidak Aktif,Pasif,5,3.2,3.4,Sedang,Ya
+19,P,TE,Tidak Aktif,Kurang Aktif,3,2.29,3.36,Rendah,Ya
+21,P,TI,BEM,Sangat Aktif,7,2.67,2.26,Tinggi,Tidak
+19,L,TS,UKM Musik,Pasif,3,3.43,2.13,Rendah,Ya
+18,L,TM,Tidak Aktif,Kurang Aktif,2,3.01,2.82,Rendah,Ya
+18,P,TI,BEM,Pasif,2,3.01,2.82,Sedang,Ya
+22,P,TI,UKM Musik,Aktif,4,2.71,2.99,Sedang,Ya
+20,P,TI,UKM Olahraga,Aktif,6,2.63,2.34,Rendah,Ya
+21,L,TE,UKM Musik,Aktif,8,3.14,2.82,Tinggi,Tidak
+24,P,TI,BEM,Pasif,6,2.55,3.28,Rendah,Ya
+23,L,TE,HIMA,Kurang Aktif,5,3.44,2.83,Tinggi,Ya
+24,L,TI,UKM Olahraga,Kurang Aktif,3,3.33,2.57,Rendah,Ya
+22,L,TS,BEM,Pasif,1,3.9,2.12,Rendah,Tidak
+18,L,TM,BEM,Kurang Aktif,8,3.67,2.34,Sedang,Ya
+21,P,TS,UKM Olahraga,Aktif,6,3.19,3.11,Sedang,Ya
+18,P,TE,BEM,Pasif,1,2.99,2.03,Sedang,Ya
+23,P,TE,BEM,Aktif,6,2.44,2.23,Tinggi,Ya
+21,L,TM,Tidak Aktif,Aktif,4,2.88,3.78,Tinggi,Tidak
+23,L,TS,HIMA,Kurang Aktif,5,3.7,2.06,Tinggi,Tidak
+21,P,TE,UKM Musik,Sangat Aktif,5,2.6,3.64,Tinggi,Ya
+23,L,TS,HIMA,Aktif,7,2.02,2.66,Sedang,Tidak
+22,P,TI,BEM,Pasif,8,3.9,3.05,Sedang,Ya
+20,L,TM,HIMA,Aktif,4,3.95,2.35,Tinggi,Ya
+22,L,TS,Tidak Aktif,Sangat Aktif,8,2.18,3.66,Rendah,Tidak
+21,P,TM,Tidak Aktif,Sangat Aktif,4,3.77,2.22,Tinggi,Ya
+18,L,TI,Tidak Aktif,Kurang Aktif,2,3.91,2.69,Tinggi,Tidak
+18,P,TI,UKM Musik,Kurang Aktif,1,3.83,2.68,Rendah,Ya
+20,P,TI,HIMA,Sangat Aktif,2,3.87,2.81,Rendah,Ya
+23,L,TI,UKM Musik,Aktif,8,3.63,2.54,Tinggi,Tidak
+18,P,TE,UKM Musik,Sangat Aktif,3,2.21,2.25,Rendah,Tidak
+19,P,TI,Tidak Aktif,Pasif,3,3.88,2.4,Sedang,Tidak
+22,L,TS,Tidak Aktif,Pasif,3,3.19,3.76,Tinggi,Ya
+19,L,TS,UKM Olahraga,Aktif,4,2.18,2.57,Rendah,Ya
+22,L,TI,BEM,Aktif,3,3.2,2.69,Sedang,Ya
+21,L,TS,UKM Musik,Sangat Aktif,1,2.88,2.24,Rendah,Ya
+19,L,TM,HIMA,Sangat Aktif,6,2.27,2.19,Sedang,Ya
+24,P,TS,UKM Musik,Kurang Aktif,4,2.02,2.71,Tinggi,Ya
+24,P,TI,UKM Musik,Kurang Aktif,7,2.68,2.01,Tinggi,Ya
+20,P,TS,UKM Olahraga,Kurang Aktif,5,2.33,2.83,Rendah,Tidak
+19,L,TM,HIMA,Kurang Aktif,6,3.66,2.44,Sedang,Tidak
+24,P,TS,BEM,Aktif,7,2.68,3.35,Rendah,Ya
+22,P,TE,HIMA,Kurang Aktif,6,2.48,3.53,Sedang,Ya
+19,P,TS,UKM Musik,Sangat Aktif,4,2.86,2.23,Rendah,Ya
+22,P,TM,HIMA,Aktif,8,2.79,3.28,Tinggi,Tidak
+18,P,TS,Tidak Aktif,Sangat Aktif,8,3.95,2.54,Tinggi,Tidak
+23,P,TI,Tidak Aktif,Pasif,6,3.38,2.73,Rendah,Ya
+19,P,TM,UKM Olahraga,Sangat Aktif,5,3.32,3.09,Tinggi,Tidak
+24,L,TS,UKM Olahraga,Aktif,4,2.5,3.04,Rendah,Tidak
+22,L,TM,Tidak Aktif,Sangat Aktif,4,3.86,2.23,Sedang,Tidak
+21,L,TS,HIMA,Sangat Aktif,8,3.77,3.01,Rendah,Ya
+22,P,TM,UKM Musik,Aktif,7,2.41,3.5,Sedang,Ya
+21,L,TI,BEM,Kurang Aktif,2,3.74,2.14,Tinggi,Ya
+21,P,TM,UKM Musik,Pasif,5,3.84,2.68,Rendah,Ya
+23,L,TS,Tidak Aktif,Sangat Aktif,7,2.44,2.42,Sedang,Tidak
+23,L,TI,BEM,Pasif,6,2.46,2.4,Rendah,Ya
+21,L,TM,UKM Olahraga,Pasif,3,2.23,2.3,Sedang,Tidak
+19,L,TI,UKM Olahraga,Pasif,8,2.16,2.14,Tinggi,Tidak
+19,L,TE,UKM Musik,Sangat Aktif,6,3.01,3.42,Tinggi,Tidak
+20,P,TI,BEM,Kurang Aktif,3,3.98,3.43,Sedang,Ya
+18,L,TS,HIMA,Kurang Aktif,4,2.41,2.9,Sedang,Ya
+18,L,TE,HIMA,Sangat Aktif,6,2.29,2.42,Tinggi,Ya
+23,L,TM,UKM Musik,Pasif,2,2.08,3.08,Tinggi,Tidak
+19,P,TE,BEM,Kurang Aktif,2,2.1,3.99,Sedang,Tidak
+21,P,TS,UKM Musik,Pasif,6,2.31,2.18,Tinggi,Tidak
+18,P,TM,BEM,Aktif,4,3.03,3.98,Rendah,Ya
+21,L,TE,UKM Olahraga,Kurang Aktif,8,2.77,2.71,Sedang,Tidak
+24,L,TM,BEM,Pasif,3,3.53,3.45,Sedang,Tidak
+20,P,TM,Tidak Aktif,Kurang Aktif,3,2.57,2.21,Tinggi,Ya
+21,P,TI,Tidak Aktif,Aktif,2,3.43,3.44,Sedang,Tidak
+20,L,TS,BEM,Kurang Aktif,3,3.55,2.73,Sedang,Tidak
+18,P,TS,UKM Olahraga,Kurang Aktif,4,2.9,2.45,Sedang,Ya
+22,L,TM,BEM,Sangat Aktif,7,2.57,2.39,Tinggi,Ya
+22,L,TE,Tidak Aktif,Pasif,7,3.9,2.6,Sedang,Ya
+23,L,TE,Tidak Aktif,Kurang Aktif,2,3.5,3.9,Rendah,Tidak
+24,P,TI,UKM Olahraga,Kurang Aktif,1,2.57,2.27,Rendah,Ya
+18,L,TI,UKM Olahraga,Kurang Aktif,5,3.66,3.63,Rendah,Ya
+24,P,TI,UKM Olahraga,Kurang Aktif,4,3.88,2.37,Rendah,Ya
+20,L,TE,UKM Musik,Sangat Aktif,5,3.53,3.93,Tinggi,Ya
+18,L,TS,UKM Olahraga,Sangat Aktif,5,2.7,3.75,Tinggi,Tidak
+19,P,TI,HIMA,Pasif,1,2.23,2.23,Tinggi,Tidak
+22,L,TE,BEM,Pasif,4,2.17,3.49,Tinggi,Ya
+20,L,TS,BEM,Aktif,1,3.31,3.01,Tinggi,Tidak
+18,L,TI,UKM Olahraga,Aktif,1,2.72,3.28,Tinggi,Ya
+18,L,TE,UKM Olahraga,Sangat Aktif,4,3.13,2.76,Rendah,Tidak
+20,P,TS,HIMA,Kurang Aktif,1,2.73,2.89,Sedang,Ya
+23,P,TS,UKM Olahraga,Aktif,3,2.1,3.9,Tinggi,Ya
+20,L,TE,UKM Musik,Aktif,4,2.28,2.79,Tinggi,Tidak
+20,L,TS,HIMA,Pasif,4,2.45,2.53,Sedang,Tidak
+19,P,TE,HIMA,Pasif,2,3.74,3.7,Sedang,Tidak
+19,L,TM,HIMA,Aktif,4,3.64,2.74,Tinggi,Ya
+20,P,TI,HIMA,Pasif,4,3.6,3.15,Rendah,Tidak
+24,P,TS,UKM Olahraga,Sangat Aktif,4,2.5,2.6,Sedang,Ya
+22,L,TI,UKM Musik,Pasif,6,2.9,2.0,Tinggi,Ya
+22,L,TM,UKM Olahraga,Pasif,3,3.66,2.48,Rendah,Tidak
+22,P,TE,UKM Musik,Sangat Aktif,5,2.74,2.06,Sedang,Tidak
+20,L,TS,UKM Olahraga,Aktif,6,2.83,2.03,Tinggi,Tidak
+24,L,TI,HIMA,Aktif,6,3.07,2.72,Tinggi,Ya
+24,L,TS,UKM Olahraga,Aktif,6,2.81,2.89,Sedang,Ya
+24,P,TM,HIMA,Sangat Aktif,5,3.37,2.92,Sedang,Ya
+24,L,TE,HIMA,Aktif,1,2.74,2.14,Sedang,Tidak
+22,P,TS,Tidak Aktif,Pasif,5,3.74,2.57,Sedang,Tidak
+24,L,TI,Tidak Aktif,Kurang Aktif,6,3.76,2.04,Tinggi,Ya
+22,P,TE,UKM Olahraga,Aktif,4,3.32,3.52,Tinggi,Ya
+19,P,TS,Tidak Aktif,Aktif,2,3.8,2.05,Rendah,Tidak
+22,P,TI,UKM Musik,Aktif,8,3.52,2.13,Sedang,Ya
+21,P,TI,Tidak Aktif,Aktif,2,2.93,2.32,Tinggi,Tidak
+23,L,TM,Tidak Aktif,Sangat Aktif,1,2.48,2.98,Rendah,Ya
+21,P,TI,HIMA,Pasif,3,2.73,2.94,Sedang,Tidak
+19,L,TI,UKM Musik,Sangat Aktif,7,3.71,2.3,Rendah,Tidak
+23,L,TE,BEM,Kurang Aktif,7,2.44,3.95,Rendah,Ya
+21,P,TS,UKM Musik,Sangat Aktif,8,2.5,3.79,Sedang,Tidak
+21,P,TM,UKM Olahraga,Pasif,1,3.06,3.4,Sedang,Ya
+23,P,TS,UKM Musik,Pasif,3,3.08,2.45,Rendah,Ya
+19,L,TS,UKM Olahraga,Sangat Aktif,4,2.84,3.68,Sedang,Tidak
+23,P,TS,UKM Musik,Aktif,8,3.99,3.02,Rendah,Ya
+18,L,TE,BEM,Sangat Aktif,6,2.55,3.82,Sedang,Tidak
+19,P,TM,BEM,Kurang Aktif,2,2.91,3.79,Sedang,Ya
+23,L,TS,BEM,Sangat Aktif,7,3.09,3.03,Tinggi,Ya
+23,P,TE,UKM Musik,Kurang Aktif,4,2.89,3.23,Tinggi,Tidak
+24,L,TE,UKM Olahraga,Pasif,2,2.64,3.23,Tinggi,Tidak
+19,P,TM,HIMA,Kurang Aktif,7,2.45,3.3,Rendah,Ya
+23,L,TM,Tidak Aktif,Pasif,2,2.3,3.25,Sedang,Ya
+20,L,TI,UKM Musik,Pasif,2,3.69,2.04,Tinggi,Ya
+21,P,TE,BEM,Sangat Aktif,2,3.5,2.51,Sedang,Tidak
+19,L,TE,UKM Olahraga,Pasif,4,2.31,2.74,Rendah,Tidak
+24,L,TI,UKM Musik,Sangat Aktif,6,3.91,2.61,Sedang,Tidak
+20,L,TE,BEM,Sangat Aktif,3,3.83,3.87,Tinggi,Tidak
+19,P,TM,BEM,Sangat Aktif,3,2.15,2.52,Sedang,Tidak
+20,P,TM,BEM,Kurang Aktif,4,3.97,2.27,Tinggi,Ya
+21,L,TE,UKM Olahraga,Aktif,2,3.61,3.86,Tinggi,Tidak
+21,L,TE,UKM Olahraga,Sangat Aktif,5,2.96,3.86,Rendah,Ya
+22,L,TI,UKM Musik,Kurang Aktif,7,2.18,2.68,Sedang,Tidak
+21,P,TE,UKM Musik,Pasif,4,3.7,3.57,Sedang,Tidak
+24,L,TS,HIMA,Aktif,2,2.05,2.36,Rendah,Ya
+19,L,TI,UKM Olahraga,Sangat Aktif,4,2.02,2.69,Sedang,Ya
+20,P,TI,HIMA,Pasif,4,2.69,2.02,Tinggi,Tidak
+22,L,TM,BEM,Pasif,3,2.62,3.81,Sedang,Ya
+22,P,TM,HIMA,Sangat Aktif,8,2.81,3.03,Rendah,Ya
+19,P,TI,UKM Musik,Sangat Aktif,3,2.6,2.54,Tinggi,Ya
+21,P,TM,HIMA,Aktif,3,3.47,2.77,Rendah,Ya
+23,L,TI,Tidak Aktif,Pasif,8,2.16,2.47,Rendah,Ya
+24,L,TI,UKM Olahraga,Sangat Aktif,8,2.83,2.85,Tinggi,Ya
+19,P,TM,BEM,Kurang Aktif,1,3.68,3.19,Tinggi,Tidak
+20,L,TM,UKM Olahraga,Aktif,4,2.33,2.24,Tinggi,Tidak
+21,L,TE,UKM Musik,Sangat Aktif,2,3.47,2.65,Rendah,Tidak
+24,P,TS,UKM Olahraga,Aktif,1,3.37,3.35,Sedang,Tidak
+24,P,TS,HIMA,Kurang Aktif,1,2.08,2.62,Sedang,Ya
+19,P,TS,Tidak Aktif,Kurang Aktif,8,3.0,2.31,Sedang,Ya
+20,P,TS,Tidak Aktif,Sangat Aktif,6,3.25,3.34,Rendah,Tidak
+24,P,TM,HIMA,Aktif,8,3.06,3.49,Sedang,Ya
+20,L,TM,UKM Musik,Sangat Aktif,8,3.36,3.37,Tinggi,Ya
+20,L,TM,UKM Olahraga,Sangat Aktif,2,2.15,3.29,Sedang,Ya
+24,L,TM,UKM Olahraga,Pasif,7,2.42,2.81,Sedang,Tidak
+21,L,TI,BEM,Aktif,1,3.96,3.89,Rendah,Ya
+21,P,TE,BEM,Aktif,1,3.64,2.76,Sedang,Tidak
+18,L,TE,UKM Musik,Pasif,7,2.39,2.57,Rendah,Tidak
+23,L,TI,UKM Musik,Kurang Aktif,1,2.33,3.61,Tinggi,Ya
+22,P,TS,BEM,Kurang Aktif,5,2.12,3.84,Tinggi,Tidak
+23,P,TM,BEM,Sangat Aktif,2,3.1,3.37,Sedang,Ya
+21,L,TI,UKM Olahraga,Aktif,2,3.77,2.14,Rendah,Tidak
+18,P,TM,UKM Olahraga,Aktif,5,2.77,3.74,Sedang,Tidak
+24,P,TE,UKM Olahraga,Kurang Aktif,2,2.08,2.36,Tinggi,Tidak
+18,P,TS,HIMA,Sangat Aktif,3,2.82,3.41,Rendah,Tidak
+22,P,TS,Tidak Aktif,Pasif,5,3.02,3.5,Rendah,Ya
+22,P,TS,UKM Musik,Sangat Aktif,5,2.05,2.07,Tinggi,Ya
+22,L,TM,UKM Olahraga,Aktif,1,3.16,3.43,Sedang,Tidak
+18,L,TS,UKM Olahraga,Pasif,1,2.75,2.48,Sedang,Tidak
+21,L,TI,BEM,Pasif,7,3.4,2.81,Sedang,Ya
+19,P,TS,Tidak Aktif,Pasif,1,3.26,3.98,Sedang,Ya
+21,P,TE,Tidak Aktif,Aktif,5,3.16,2.77,Tinggi,Tidak
+22,P,TM,Tidak Aktif,Aktif,8,2.91,3.95,Rendah,Ya
+20,L,TS,BEM,Kurang Aktif,5,2.7,2.15,Tinggi,Tidak
+18,P,TM,UKM Olahraga,Aktif,3,2.74,3.37,Rendah,Ya
+19,P,TS,UKM Olahraga,Aktif,8,3.35,3.74,Tinggi,Tidak
+24,L,TI,HIMA,Pasif,8,3.31,3.17,Tinggi,Tidak
+19,L,TS,Tidak Aktif,Sangat Aktif,2,2.88,2.0,Tinggi,Tidak
+22,P,TM,UKM Olahraga,Aktif,3,2.11,3.02,Rendah,Ya
+21,P,TS,Tidak Aktif,Kurang Aktif,8,2.05,2.97,Tinggi,Tidak
+23,L,TI,UKM Olahraga,Kurang Aktif,7,3.58,3.25,Sedang,Tidak
+20,P,TM,UKM Musik,Kurang Aktif,5,3.55,3.8,Sedang,Ya
+21,P,TM,UKM Olahraga,Pasif,3,2.53,3.73,Rendah,Ya
+23,L,TI,HIMA,Sangat Aktif,7,2.69,3.56,Sedang,Ya
+24,P,TI,Tidak Aktif,Aktif,4,2.68,2.56,Tinggi,Tidak
+20,L,TE,UKM Olahraga,Pasif,6,3.45,3.06,Rendah,Tidak
+23,P,TM,UKM Musik,Kurang Aktif,1,2.84,2.16,Tinggi,Tidak
+19,L,TI,BEM,Pasif,2,2.87,2.93,Tinggi,Ya
+22,P,TI,Tidak Aktif,Kurang Aktif,6,3.24,3.76,Rendah,Ya
+21,P,TM,UKM Musik,Sangat Aktif,7,3.62,3.89,Rendah,Tidak
+24,L,TE,UKM Olahraga,Aktif,2,3.9,2.85,Rendah,Tidak
+19,L,TI,UKM Musik,Pasif,8,2.65,2.29,Tinggi,Ya
+24,P,TI,UKM Olahraga,Sangat Aktif,1,2.86,3.21,Tinggi,Ya
+20,L,TI,Tidak Aktif,Sangat Aktif,4,2.72,2.59,Rendah,Ya
+18,P,TM,UKM Olahraga,Kurang Aktif,2,2.68,2.86,Sedang,Ya
+19,P,TS,HIMA,Sangat Aktif,8,3.87,2.51,Rendah,Ya
+18,P,TE,Tidak Aktif,Aktif,8,3.22,2.86,Rendah,Tidak
+20,L,TS,UKM Musik,Aktif,3,3.97,2.49,Tinggi,Ya
+20,L,TI,Tidak Aktif,Pasif,8,2.05,3.72,Tinggi,Ya
+21,L,TI,UKM Musik,Aktif,3,2.15,3.6,Rendah,Ya
+19,P,TS,BEM,Aktif,2,3.71,2.55,Sedang,Ya
+18,L,TI,HIMA,Aktif,6,3.39,3.67,Rendah,Tidak
+22,L,TS,UKM Olahraga,Aktif,4,2.64,3.71,Sedang,Tidak
+21,P,TI,Tidak Aktif,Pasif,1,2.74,3.54,Rendah,Ya
+19,P,TS,UKM Olahraga,Pasif,1,2.71,3.06,Rendah,Ya
+18,P,TS,Tidak Aktif,Kurang Aktif,6,2.0,3.58,Rendah,Ya
+23,L,TE,HIMA,Aktif,7,3.87,2.94,Tinggi,Ya
+19,L,TE,BEM,Sangat Aktif,2,3.13,3.61,Rendah,Tidak
+21,P,TI,UKM Olahraga,Aktif,2,3.77,3.76,Tinggi,Ya
+21,P,TS,HIMA,Sangat Aktif,1,3.46,2.82,Tinggi,Tidak
+19,P,TS,Tidak Aktif,Sangat Aktif,2,2.6,3.56,Sedang,Tidak
+22,P,TI,Tidak Aktif,Pasif,8,3.13,2.1,Tinggi,Tidak
+18,P,TI,BEM,Kurang Aktif,8,2.16,2.67,Rendah,Ya
+18,P,TE,BEM,Kurang Aktif,4,3.03,2.16,Sedang,Ya
+21,L,TM,BEM,Kurang Aktif,2,2.85,3.03,Tinggi,Tidak
+18,P,TS,BEM,Pasif,6,3.75,2.2,Sedang,Tidak
+20,P,TI,UKM Olahraga,Kurang Aktif,4,3.17,2.82,Sedang,Ya
+21,P,TE,Tidak Aktif,Aktif,3,3.67,2.26,Rendah,Tidak
+19,P,TI,UKM Musik,Pasif,8,2.99,3.56,Rendah,Ya
+22,L,TE,UKM Musik,Sangat Aktif,4,3.13,3.48,Rendah,Tidak
+18,L,TE,Tidak Aktif,Aktif,8,2.28,3.23,Rendah,Ya
+20,L,TS,UKM Musik,Aktif,3,2.09,2.81,Rendah,Tidak
+19,P,TI,UKM Olahraga,Kurang Aktif,3,3.93,2.3,Rendah,Ya
+24,L,TM,BEM,Kurang Aktif,3,2.28,2.82,Rendah,Ya
+22,L,TS,HIMA,Aktif,5,2.81,2.08,Sedang,Tidak
+18,L,TE,UKM Musik,Aktif,1,3.45,2.91,Rendah,Tidak
+18,L,TE,UKM Musik,Sangat Aktif,3,3.78,3.68,Tinggi,Ya
+19,L,TS,BEM,Aktif,4,3.99,2.55,Sedang,Ya
+20,L,TI,BEM,Sangat Aktif,3,2.92,3.58,Sedang,Ya
+22,L,TE,HIMA,Aktif,3,3.08,2.53,Rendah,Ya
+23,P,TM,UKM Musik,Sangat Aktif,5,3.76,2.8,Rendah,Ya
+20,L,TI,BEM,Sangat Aktif,4,3.73,3.81,Rendah,Ya
+22,L,TS,BEM,Pasif,5,2.93,3.5,Tinggi,Ya
+22,L,TI,BEM,Sangat Aktif,3,2.03,2.29,Tinggi,Ya
+24,L,TS,UKM Musik,Aktif,1,2.38,2.35,Sedang,Tidak
+21,L,TE,Tidak Aktif,Aktif,1,3.85,2.95,Sedang,Tidak
+20,L,TI,UKM Olahraga,Kurang Aktif,3,3.08,2.91,Tinggi,Tidak
+21,P,TE,Tidak Aktif,Sangat Aktif,4,3.84,2.76,Rendah,Tidak
+18,P,TS,BEM,Kurang Aktif,8,2.3,3.16,Rendah,Tidak
+18,P,TI,UKM Olahraga,Kurang Aktif,6,3.62,3.11,Rendah,Ya
+24,P,TS,UKM Olahraga,Kurang Aktif,5,2.25,3.88,Rendah,Tidak
+21,L,TI,HIMA,Kurang Aktif,4,2.42,2.97,Rendah,Ya
+19,P,TM,UKM Musik,Kurang Aktif,8,3.45,2.44,Rendah,Tidak
+22,P,TM,BEM,Kurang Aktif,8,2.65,3.03,Rendah,Tidak
+19,P,TS,Tidak Aktif,Pasif,7,3.1,2.33,Rendah,Tidak
+21,L,TI,BEM,Kurang Aktif,3,2.49,2.7,Sedang,Ya
+23,P,TI,UKM Olahraga,Kurang Aktif,3,2.43,2.37,Rendah,Ya
+23,L,TI,BEM,Sangat Aktif,2,2.02,2.75,Sedang,Tidak
+18,L,TE,UKM Olahraga,Sangat Aktif,3,3.48,2.48,Sedang,Ya
+19,P,TI,Tidak Aktif,Sangat Aktif,5,2.4,3.35,Rendah,Ya
+18,L,TI,BEM,Pasif,4,3.72,2.68,Tinggi,Tidak
+20,P,TS,UKM Musik,Kurang Aktif,6,3.0,2.74,Rendah,Ya
+19,L,TI,UKM Musik,Sangat Aktif,5,3.32,3.0,Rendah,Tidak
+18,L,TS,BEM,Aktif,5,3.36,3.75,Tinggi,Ya
+19,P,TM,BEM,Aktif,1,2.71,2.55,Rendah,Tidak
+20,P,TI,UKM Musik,Kurang Aktif,1,3.88,2.31,Sedang,Tidak
+21,P,TE,BEM,Sangat Aktif,8,3.51,3.66,Rendah,Tidak
+18,L,TI,BEM,Aktif,5,3.35,3.14,Rendah,Tidak
+18,P,TE,Tidak Aktif,Sangat Aktif,7,2.5,2.71,Tinggi,Ya
+18,P,TI,HIMA,Pasif,5,2.24,2.38,Tinggi,Tidak
+24,L,TS,HIMA,Aktif,8,2.97,2.61,Tinggi,Tidak
+19,P,TI,BEM,Pasif,6,3.87,3.51,Rendah,Tidak
+21,L,TS,HIMA,Sangat Aktif,4,2.24,3.22,Rendah,Tidak
+23,L,TS,HIMA,Aktif,4,2.92,3.99,Rendah,Ya
+23,L,TI,HIMA,Kurang Aktif,5,3.63,2.46,Rendah,Ya
+21,P,TE,Tidak Aktif,Sangat Aktif,2,2.69,2.65,Rendah,Ya
+23,L,TS,UKM Musik,Pasif,5,3.23,2.28,Sedang,Tidak
+20,L,TE,HIMA,Sangat Aktif,6,2.04,3.01,Sedang,Tidak
+21,P,TE,BEM,Aktif,4,2.36,3.39,Sedang,Ya
+22,L,TM,UKM Olahraga,Pasif,6,3.42,3.41,Rendah,Ya
+20,P,TE,UKM Musik,Aktif,7,3.57,3.89,Sedang,Tidak
+21,P,TS,HIMA,Kurang Aktif,3,2.68,2.77,Tinggi,Tidak
+19,P,TE,HIMA,Sangat Aktif,6,3.96,3.05,Sedang,Tidak
+22,P,TM,Tidak Aktif,Pasif,3,3.48,2.11,Tinggi,Ya
+18,P,TI,UKM Musik,Pasif,7,2.92,3.97,Tinggi,Tidak
+18,L,TS,BEM,Kurang Aktif,3,3.57,3.52,Tinggi,Ya
+18,P,TE,UKM Musik,Kurang Aktif,6,3.59,2.24,Tinggi,Ya
+18,L,TM,Tidak Aktif,Sangat Aktif,3,2.27,2.14,Rendah,Tidak
+19,L,TM,BEM,Kurang Aktif,1,3.12,3.53,Tinggi,Ya
+23,P,TE,Tidak Aktif,Sangat Aktif,5,2.28,2.32,Rendah,Tidak
+24,L,TE,UKM Musik,Aktif,1,2.48,3.02,Rendah,Tidak
+18,P,TI,Tidak Aktif,Kurang Aktif,7,3.01,3.47,Sedang,Ya
+22,L,TI,BEM,Aktif,7,2.55,2.22,Rendah,Ya
+18,P,TM,UKM Musik,Sangat Aktif,7,2.29,3.67,Rendah,Tidak
+21,L,TS,UKM Olahraga,Sangat Aktif,7,2.45,3.36,Rendah,Tidak
+19,L,TS,UKM Olahraga,Pasif,4,2.34,2.33,Rendah,Tidak
+21,P,TI,BEM,Aktif,4,2.66,3.98,Sedang,Tidak
+21,L,TS,HIMA,Kurang Aktif,8,3.68,3.78,Rendah,Ya
+23,P,TM,UKM Olahraga,Sangat Aktif,3,3.4,2.32,Sedang,Ya
+18,P,TE,UKM Musik,Kurang Aktif,3,3.99,2.63,Tinggi,Tidak
+19,L,TS,BEM,Sangat Aktif,7,3.37,2.54,Sedang,Ya
+22,P,TE,UKM Olahraga,Aktif,8,2.25,3.32,Sedang,Ya
+24,P,TM,UKM Olahraga,Aktif,8,2.49,3.92,Sedang,Ya
+21,L,TE,HIMA,Sangat Aktif,8,2.23,2.42,Sedang,Ya
+20,L,TM,UKM Olahraga,Pasif,7,2.62,3.03,Sedang,Ya
+21,L,TI,UKM Musik,Aktif,3,3.84,2.18,Rendah,Tidak
+18,L,TI,HIMA,Pasif,6,2.36,2.7,Rendah,Ya
+18,L,TM,Tidak Aktif,Sangat Aktif,1,2.95,2.21,Tinggi,Ya
+24,L,TE,HIMA,Pasif,3,3.26,3.3,Sedang,Tidak
+24,L,TM,Tidak Aktif,Pasif,6,3.29,2.19,Tinggi,Ya
+20,P,TI,Tidak Aktif,Aktif,6,3.92,3.91,Sedang,Ya
+21,P,TM,UKM Olahraga,Sangat Aktif,6,3.07,2.33,Rendah,Tidak
+22,P,TE,HIMA,Sangat Aktif,8,2.5,3.29,Sedang,Ya
+22,P,TM,Tidak Aktif,Aktif,2,3.44,2.95,Tinggi,Tidak
+23,P,TE,BEM,Aktif,1,2.32,2.59,Sedang,Tidak
+20,P,TI,Tidak Aktif,Aktif,5,3.89,2.1,Tinggi,Ya
+24,L,TM,UKM Olahraga,Sangat Aktif,8,3.06,2.77,Tinggi,Ya
+20,L,TS,UKM Olahraga,Sangat Aktif,5,2.25,3.33,Sedang,Tidak
+23,L,TS,HIMA,Kurang Aktif,4,3.08,2.18,Tinggi,Ya
+19,L,TI,UKM Musik,Pasif,7,3.59,3.32,Sedang,Ya
+22,P,TS,HIMA,Pasif,3,3.75,3.81,Sedang,Ya
+19,L,TM,BEM,Sangat Aktif,2,3.02,2.88,Sedang,Tidak
+24,L,TE,BEM,Aktif,3,3.22,3.39,Tinggi,Tidak
+20,L,TE,HIMA,Aktif,2,2.46,2.82,Rendah,Ya
+18,L,TI,HIMA,Pasif,2,3.35,3.29,Sedang,Tidak
+21,P,TE,BEM,Aktif,6,3.6,2.45,Rendah,Ya
+19,L,TE,BEM,Aktif,7,2.41,2.19,Tinggi,Tidak
+22,L,TM,HIMA,Aktif,3,2.75,2.53,Sedang,Tidak
+24,P,TI,Tidak Aktif,Aktif,7,2.51,2.41,Sedang,Ya
+23,P,TM,BEM,Pasif,1,2.06,2.08,Tinggi,Ya
+19,P,TS,Tidak Aktif,Pasif,6,2.01,2.81,Rendah,Ya
+19,L,TI,Tidak Aktif,Sangat Aktif,4,2.91,3.37,Tinggi,Ya
+23,P,TM,HIMA,Pasif,2,3.53,2.76,Tinggi,Ya
+18,P,TM,BEM,Aktif,2,3.97,2.89,Rendah,Tidak
+22,L,TM,BEM,Pasif,4,2.77,3.21,Sedang,Tidak
+23,P,TE,UKM Olahraga,Kurang Aktif,4,3.21,3.06,Tinggi,Ya
+21,L,TE,Tidak Aktif,Sangat Aktif,5,2.3,2.32,Tinggi,Tidak
+21,L,TM,Tidak Aktif,Kurang Aktif,7,3.22,3.3,Rendah,Tidak
+19,P,TM,HIMA,Pasif,3,2.36,3.41,Tinggi,Tidak
+20,P,TE,HIMA,Pasif,1,3.93,2.9,Tinggi,Tidak
+24,L,TS,UKM Olahraga,Pasif,3,3.63,2.29,Sedang,Ya
+18,L,TS,UKM Musik,Kurang Aktif,7,2.38,2.33,Sedang,Ya
+24,P,TE,HIMA,Pasif,6,2.48,3.0,Rendah,Tidak
+21,P,TI,UKM Musik,Aktif,2,3.57,2.83,Tinggi,Ya
+23,P,TE,Tidak Aktif,Kurang Aktif,5,2.53,2.08,Rendah,Tidak
+20,L,TE,BEM,Sangat Aktif,2,3.14,3.85,Sedang,Ya
+21,L,TE,UKM Musik,Sangat Aktif,3,2.15,3.11,Tinggi,Ya
+24,L,TM,UKM Musik,Sangat Aktif,7,2.76,2.51,Sedang,Ya
+20,P,TE,BEM,Aktif,6,3.58,2.61,Tinggi,Ya
+19,L,TE,BEM,Kurang Aktif,7,3.11,3.97,Tinggi,Ya
+23,L,TE,Tidak Aktif,Aktif,1,3.69,2.89,Sedang,Tidak
+18,P,TI,UKM Olahraga,Pasif,1,2.28,2.6,Sedang,Ya
+24,L,TE,UKM Musik,Sangat Aktif,2,3.78,3.15,Tinggi,Tidak
+21,L,TI,UKM Musik,Kurang Aktif,6,3.49,3.27,Rendah,Ya
+21,P,TM,HIMA,Pasif,7,2.29,2.62,Rendah,Tidak
+19,L,TS,BEM,Aktif,1,2.97,2.56,Sedang,Ya
+23,P,TM,HIMA,Pasif,7,3.86,2.42,Tinggi,Tidak
+19,P,TM,Tidak Aktif,Aktif,6,2.43,3.62,Rendah,Ya
+20,P,TE,BEM,Sangat Aktif,1,2.29,2.85,Tinggi,Tidak
+21,P,TM,UKM Musik,Sangat Aktif,7,2.2,2.91,Sedang,Tidak
+23,P,TM,HIMA,Sangat Aktif,6,3.06,3.86,Sedang,Tidak
+23,P,TM,UKM Musik,Sangat Aktif,7,3.33,3.16,Sedang,Ya
+18,L,TI,BEM,Pasif,1,2.41,2.18,Rendah,Tidak
+23,L,TE,Tidak Aktif,Pasif,3,3.06,3.16,Sedang,Ya
+18,L,TE,BEM,Sangat Aktif,4,2.55,2.22,Rendah,Ya
+23,L,TM,UKM Musik,Aktif,6,2.48,3.37,Rendah,Tidak
+23,P,TI,Tidak Aktif,Pasif,1,3.77,3.8,Rendah,Tidak
+24,P,TE,HIMA,Aktif,1,2.35,2.7,Rendah,Ya
+24,L,TM,UKM Olahraga,Pasif,5,2.32,3.48,Tinggi,Tidak
+24,L,TM,Tidak Aktif,Aktif,1,2.33,2.25,Rendah,Tidak
+23,P,TE,HIMA,Kurang Aktif,1,3.28,3.7,Tinggi,Ya
+21,P,TE,BEM,Pasif,3,2.08,2.42,Tinggi,Ya
+21,L,TM,HIMA,Pasif,1,2.01,2.69,Tinggi,Tidak
+22,P,TM,HIMA,Kurang Aktif,5,3.44,3.98,Tinggi,Tidak
+24,L,TI,UKM Musik,Sangat Aktif,2,2.02,2.46,Rendah,Tidak
+20,L,TM,UKM Musik,Aktif,4,2.19,3.1,Tinggi,Ya
+19,L,TS,Tidak Aktif,Aktif,1,3.46,2.7,Rendah,Tidak
+20,P,TM,BEM,Kurang Aktif,3,3.68,3.13,Sedang,Ya
+21,L,TI,UKM Olahraga,Sangat Aktif,8,2.57,2.31,Sedang,Tidak
+20,L,TS,UKM Olahraga,Kurang Aktif,3,2.8,2.8,Sedang,Ya
+21,L,TM,Tidak Aktif,Kurang Aktif,5,3.67,2.31,Sedang,Tidak
+20,L,TS,Tidak Aktif,Pasif,6,2.87,3.65,Tinggi,Tidak
+24,L,TS,UKM Olahraga,Kurang Aktif,1,2.29,3.54,Rendah,Ya
+21,P,TM,Tidak Aktif,Pasif,3,2.45,2.36,Tinggi,Tidak
+22,P,TE,HIMA,Aktif,8,3.76,2.64,Sedang,Ya
+23,P,TS,Tidak Aktif,Sangat Aktif,5,3.33,2.07,Tinggi,Ya
+23,L,TM,UKM Olahraga,Kurang Aktif,3,2.12,2.51,Sedang,Ya
+19,L,TI,UKM Olahraga,Aktif,7,2.27,2.49,Sedang,Tidak
+20,L,TM,UKM Olahraga,Pasif,1,3.35,3.8,Tinggi,Tidak
+22,P,TI,UKM Musik,Kurang Aktif,1,2.16,3.41,Tinggi,Ya
+24,L,TS,BEM,Kurang Aktif,8,3.45,3.1,Sedang,Tidak
+19,L,TM,Tidak Aktif,Sangat Aktif,3,2.17,2.81,Rendah,Tidak
+18,P,TE,BEM,Sangat Aktif,4,3.59,2.95,Tinggi,Ya
+18,L,TE,HIMA,Kurang Aktif,2,2.08,3.12,Sedang,Ya
+19,P,TI,HIMA,Aktif,6,3.66,2.12,Rendah,Tidak
+22,L,TI,BEM,Sangat Aktif,1,3.16,3.56,Tinggi,Tidak
+22,P,TS,Tidak Aktif,Aktif,3,3.49,2.45,Tinggi,Tidak
+22,P,TM,UKM Musik,Sangat Aktif,4,3.27,3.16,Rendah,Ya
+22,L,TM,UKM Musik,Sangat Aktif,5,3.82,2.07,Rendah,Ya
+20,P,TM,Tidak Aktif,Aktif,4,2.45,3.03,Rendah,Tidak
+24,L,TM,UKM Musik,Aktif,2,2.05,3.39,Tinggi,Tidak
+24,P,TE,Tidak Aktif,Kurang Aktif,5,3.66,2.05,Sedang,Tidak
+23,P,TM,HIMA,Aktif,7,2.95,2.52,Rendah,Tidak
+24,P,TI,UKM Olahraga,Kurang Aktif,6,2.82,3.78,Tinggi,Tidak
+24,P,TS,UKM Olahraga,Aktif,2,3.27,2.82,Rendah,Ya
+24,L,TM,BEM,Kurang Aktif,3,3.74,2.39,Rendah,Ya
+22,L,TM,HIMA,Sangat Aktif,8,2.75,3.63,Sedang,Ya
+22,P,TS,UKM Olahraga,Pasif,1,3.33,2.44,Sedang,Tidak
+23,L,TS,UKM Olahraga,Kurang Aktif,4,3.62,2.7,Rendah,Tidak
+21,P,TE,HIMA,Sangat Aktif,8,2.12,3.15,Rendah,Tidak
+21,P,TM,Tidak Aktif,Kurang Aktif,8,3.22,2.91,Sedang,Ya
+18,P,TI,UKM Olahraga,Pasif,2,2.32,2.45,Rendah,Ya
+24,L,TS,Tidak Aktif,Sangat Aktif,8,3.39,2.25,Tinggi,Tidak
+19,L,TS,UKM Musik,Pasif,1,3.68,2.29,Sedang,Tidak
+24,L,TM,Tidak Aktif,Sangat Aktif,8,2.24,3.55,Tinggi,Tidak
+20,P,TS,UKM Musik,Pasif,8,3.87,3.91,Sedang,Ya
+18,P,TE,UKM Olahraga,Kurang Aktif,7,2.89,3.7,Rendah,Ya
+19,P,TE,Tidak Aktif,Kurang Aktif,3,2.28,2.02,Sedang,Tidak
+24,L,TI,HIMA,Kurang Aktif,3,2.63,3.04,Sedang,Ya
+18,P,TE,BEM,Kurang Aktif,7,3.18,3.0,Sedang,Tidak
+23,L,TE,HIMA,Pasif,6,2.26,2.36,Tinggi,Ya
+23,P,TI,UKM Musik,Sangat Aktif,6,3.11,2.51,Rendah,Ya
+23,P,TM,UKM Musik,Pasif,6,2.77,3.61,Sedang,Ya
+18,P,TS,BEM,Kurang Aktif,7,2.18,2.33,Tinggi,Tidak
+19,L,TM,UKM Musik,Aktif,4,2.23,3.82,Rendah,Tidak
+18,L,TS,UKM Olahraga,Sangat Aktif,2,3.25,2.36,Sedang,Tidak
+23,P,TI,HIMA,Pasif,5,3.81,3.71,Rendah,Ya
+24,L,TS,Tidak Aktif,Pasif,6,2.38,2.52,Rendah,Tidak
+22,P,TS,UKM Olahraga,Pasif,3,2.32,3.59,Tinggi,Tidak
+24,P,TM,UKM Musik,Aktif,5,3.21,3.63,Sedang,Ya
+21,L,TE,BEM,Kurang Aktif,5,3.23,3.79,Tinggi,Tidak
+18,L,TE,HIMA,Pasif,3,3.65,3.99,Tinggi,Ya
+24,L,TI,BEM,Pasif,8,3.25,3.4,Sedang,Ya
+22,P,TI,BEM,Kurang Aktif,7,2.99,2.35,Sedang,Ya
+19,L,TE,UKM Olahraga,Aktif,2,2.98,3.08,Sedang,Ya
+21,L,TS,UKM Musik,Aktif,5,3.49,3.71,Tinggi,Tidak
+23,L,TM,BEM,Pasif,3,2.05,2.56,Rendah,Tidak
+21,L,TE,UKM Olahraga,Sangat Aktif,3,2.37,2.35,Sedang,Ya
+21,L,TI,BEM,Kurang Aktif,3,3.69,3.83,Tinggi,Tidak
+22,P,TI,UKM Olahraga,Sangat Aktif,3,3.25,2.24,Tinggi,Tidak
+23,L,TI,BEM,Sangat Aktif,4,3.85,3.86,Tinggi,Tidak
+23,L,TE,UKM Olahraga,Aktif,8,2.78,2.78,Rendah,Tidak
+22,P,TM,BEM,Sangat Aktif,3,2.23,2.96,Rendah,Ya
+24,P,TS,Tidak Aktif,Kurang Aktif,8,2.38,2.4,Tinggi,Tidak
+21,L,TE,BEM,Aktif,7,3.74,3.89,Sedang,Ya
+22,L,TM,UKM Olahraga,Aktif,2,2.5,2.63,Rendah,Ya
+24,P,TI,Tidak Aktif,Aktif,5,3.08,2.06,Tinggi,Ya
+22,L,TS,UKM Musik,Pasif,3,2.48,3.03,Rendah,Tidak
+19,P,TE,UKM Musik,Sangat Aktif,3,3.87,3.42,Rendah,Tidak
+20,P,TE,HIMA,Sangat Aktif,5,2.05,3.9,Tinggi,Ya
+22,L,TM,UKM Musik,Pasif,2,2.12,3.46,Rendah,Tidak
+20,P,TI,HIMA,Pasif,8,2.2,2.08,Rendah,Tidak
+21,P,TI,Tidak Aktif,Sangat Aktif,5,3.87,3.5,Sedang,Ya
+19,P,TE,HIMA,Sangat Aktif,2,3.81,2.33,Sedang,Ya
+18,L,TI,BEM,Pasif,4,3.0,2.35,Rendah,Ya
+22,L,TS,Tidak Aktif,Pasif,1,3.07,2.51,Rendah,Ya
+19,L,TS,UKM Musik,Sangat Aktif,3,3.54,3.17,Tinggi,Tidak
+19,P,TE,HIMA,Kurang Aktif,5,3.79,2.08,Sedang,Ya
+23,L,TS,HIMA,Pasif,1,2.81,2.65,Tinggi,Ya
+18,P,TM,UKM Olahraga,Aktif,6,3.69,3.91,Rendah,Tidak
+21,L,TS,UKM Olahraga,Sangat Aktif,2,2.6,3.7,Sedang,Tidak
+20,P,TI,HIMA,Aktif,2,2.81,2.49,Rendah,Tidak
+20,P,TS,HIMA,Kurang Aktif,2,3.47,2.47,Rendah,Ya
+24,L,TE,Tidak Aktif,Sangat Aktif,5,3.59,2.77,Sedang,Tidak
+24,L,TI,BEM,Aktif,4,3.38,3.29,Rendah,Tidak
+23,P,TE,BEM,Aktif,5,3.19,3.18,Rendah,Ya
+24,P,TI,UKM Olahraga,Pasif,4,3.74,3.64,Sedang,Ya
+22,L,TI,UKM Musik,Sangat Aktif,7,3.57,3.22,Sedang,Tidak
+24,L,TS,HIMA,Aktif,6,2.04,2.21,Tinggi,Tidak
+21,P,TM,BEM,Pasif,6,2.07,3.18,Sedang,Ya
+19,L,TI,HIMA,Aktif,4,3.56,3.97,Sedang,Ya
+22,P,TI,UKM Olahraga,Aktif,7,3.38,3.52,Rendah,Tidak
+24,L,TI,HIMA,Aktif,3,3.94,3.58,Sedang,Tidak
+24,P,TS,Tidak Aktif,Pasif,6,3.54,3.92,Sedang,Tidak
+18,L,TM,Tidak Aktif,Sangat Aktif,2,3.84,2.24,Tinggi,Tidak
+18,P,TE,UKM Olahraga,Pasif,7,2.72,2.24,Tinggi,Ya
+24,L,TM,BEM,Pasif,6,3.38,2.78,Sedang,Tidak
+20,P,TS,UKM Olahraga,Sangat Aktif,6,2.2,2.32,Rendah,Ya
+21,P,TS,Tidak Aktif,Aktif,6,2.05,3.56,Rendah,Ya
+24,P,TE,UKM Olahraga,Pasif,8,2.35,3.43,Tinggi,Ya
+22,L,TI,HIMA,Kurang Aktif,1,3.38,2.93,Sedang,Tidak
+22,L,TM,HIMA,Pasif,5,3.51,2.31,Sedang,Tidak
+19,L,TI,HIMA,Pasif,7,2.17,3.74,Tinggi,Ya
+23,L,TE,UKM Olahraga,Kurang Aktif,1,2.83,2.39,Sedang,Ya
+22,P,TI,UKM Olahraga,Sangat Aktif,7,3.68,2.92,Tinggi,Ya
+19,L,TS,UKM Olahraga,Sangat Aktif,2,3.63,2.2,Tinggi,Ya
+22,L,TM,Tidak Aktif,Aktif,2,3.46,2.13,Tinggi,Ya
+23,L,TI,Tidak Aktif,Sangat Aktif,8,2.94,3.66,Rendah,Tidak
+23,P,TS,UKM Musik,Kurang Aktif,2,2.48,3.52,Sedang,Ya
+24,L,TM,UKM Musik,Sangat Aktif,8,3.45,2.73,Sedang,Ya
+22,P,TS,UKM Musik,Aktif,2,2.82,2.34,Rendah,Tidak
+18,L,TS,UKM Musik,Aktif,4,2.8,2.64,Sedang,Tidak
+22,P,TS,UKM Olahraga,Pasif,1,2.08,3.34,Sedang,Tidak
+19,P,TM,Tidak Aktif,Aktif,8,3.95,3.14,Rendah,Tidak
+20,L,TS,BEM,Aktif,6,3.19,2.26,Rendah,Ya
+23,P,TS,Tidak Aktif,Sangat Aktif,3,2.55,3.73,Tinggi,Ya
+18,L,TI,BEM,Pasif,7,2.66,3.76,Sedang,Ya
+18,L,TI,UKM Musik,Pasif,2,3.37,3.6,Rendah,Ya
+22,P,TM,UKM Olahraga,Pasif,8,3.86,3.54,Tinggi,Ya
+24,P,TS,HIMA,Pasif,6,3.86,3.72,Tinggi,Tidak
+18,L,TE,BEM,Kurang Aktif,6,3.86,3.84,Rendah,Ya
+22,P,TE,UKM Olahraga,Kurang Aktif,8,3.5,3.2,Sedang,Tidak
+22,L,TE,Tidak Aktif,Pasif,1,2.12,3.72,Rendah,Ya
+20,P,TM,BEM,Kurang Aktif,6,3.25,3.11,Rendah,Ya
+20,L,TE,UKM Olahraga,Sangat Aktif,4,2.46,3.06,Rendah,Ya
+19,L,TM,HIMA,Pasif,3,3.94,3.2,Tinggi,Ya
+18,P,TM,UKM Olahraga,Kurang Aktif,5,3.43,3.74,Sedang,Tidak
+20,L,TS,BEM,Pasif,4,2.58,2.6,Sedang,Tidak
+24,L,TE,Tidak Aktif,Aktif,7,3.89,3.93,Sedang,Tidak
+21,P,TM,Tidak Aktif,Kurang Aktif,8,2.39,2.9,Sedang,Ya
+23,L,TE,UKM Olahraga,Kurang Aktif,8,3.27,2.77,Sedang,Tidak
+23,P,TM,Tidak Aktif,Pasif,8,3.23,3.23,Sedang,Ya
+23,P,TE,UKM Olahraga,Kurang Aktif,5,3.01,3.97,Sedang,Tidak
+19,L,TI,BEM,Kurang Aktif,2,3.6,2.82,Tinggi,Tidak
+23,L,TE,UKM Musik,Kurang Aktif,7,3.25,2.12,Sedang,Ya
+21,P,TE,HIMA,Kurang Aktif,3,2.23,2.45,Tinggi,Tidak
+23,L,TE,Tidak Aktif,Sangat Aktif,7,3.33,3.92,Tinggi,Ya
+24,L,TS,UKM Olahraga,Aktif,1,3.38,3.24,Rendah,Ya
+23,P,TI,UKM Olahraga,Aktif,3,3.15,3.96,Tinggi,Ya
+23,L,TS,UKM Musik,Aktif,4,3.89,3.35,Sedang,Tidak
+20,P,TI,BEM,Aktif,5,2.15,3.14,Sedang,Tidak
+21,P,TE,UKM Olahraga,Pasif,6,2.8,2.49,Rendah,Tidak
+23,P,TM,Tidak Aktif,Pasif,4,3.98,2.81,Sedang,Tidak
+18,L,TM,UKM Musik,Aktif,3,3.71,3.47,Rendah,Tidak
+18,L,TE,UKM Olahraga,Aktif,4,2.08,2.31,Tinggi,Ya
+24,L,TS,HIMA,Pasif,7,2.76,2.48,Tinggi,Tidak
+23,L,TE,HIMA,Aktif,7,3.04,3.6,Rendah,Tidak
+20,P,TI,BEM,Kurang Aktif,4,2.31,3.97,Sedang,Ya
+18,P,TE,UKM Olahraga,Sangat Aktif,8,2.44,2.92,Rendah,Ya
+18,L,TE,UKM Musik,Sangat Aktif,1,2.52,2.8,Tinggi,Ya
+20,P,TS,UKM Musik,Sangat Aktif,4,3.9,2.08,Tinggi,Tidak
+18,P,TE,Tidak Aktif,Sangat Aktif,5,2.28,3.79,Tinggi,Tidak
+20,P,TM,UKM Olahraga,Aktif,4,2.15,3.5,Rendah,Tidak
+23,L,TS,UKM Olahraga,Kurang Aktif,4,3.99,3.4,Tinggi,Ya
+20,L,TS,UKM Olahraga,Sangat Aktif,4,2.33,2.99,Rendah,Tidak
+23,L,TM,Tidak Aktif,Kurang Aktif,1,2.58,2.65,Sedang,Ya
+22,P,TI,HIMA,Kurang Aktif,6,2.31,3.4,Tinggi,Ya
+22,P,TI,UKM Olahraga,Kurang Aktif,2,3.81,3.57,Rendah,Tidak
+22,L,TE,BEM,Pasif,1,3.79,3.52,Tinggi,Ya
+20,P,TI,HIMA,Kurang Aktif,4,2.87,2.09,Tinggi,Tidak
+23,P,TE,UKM Musik,Pasif,4,2.07,2.99,Tinggi,Ya
+21,P,TI,Tidak Aktif,Sangat Aktif,8,3.08,3.1,Rendah,Ya
+22,L,TS,Tidak Aktif,Kurang Aktif,4,2.54,2.83,Rendah,Tidak
+18,P,TM,UKM Olahraga,Sangat Aktif,2,2.16,3.18,Rendah,Tidak
+18,P,TI,UKM Musik,Aktif,1,3.25,2.58,Sedang,Ya
+23,L,TI,UKM Musik,Pasif,6,3.9,2.73,Sedang,Tidak
+19,P,TM,HIMA,Kurang Aktif,8,3.26,3.73,Sedang,Tidak
+18,L,TE,Tidak Aktif,Sangat Aktif,2,3.35,3.57,Rendah,Tidak
+24,P,TS,UKM Musik,Aktif,4,2.8,2.96,Sedang,Tidak
+18,P,TS,Tidak Aktif,Sangat Aktif,7,3.32,2.67,Tinggi,Ya
+24,P,TM,Tidak Aktif,Pasif,6,2.93,3.05,Tinggi,Ya
+24,L,TM,UKM Olahraga,Kurang Aktif,5,2.33,2.94,Rendah,Ya
+18,L,TE,UKM Musik,Kurang Aktif,3,3.47,3.87,Sedang,Tidak
+23,L,TS,UKM Musik,Kurang Aktif,2,3.28,2.8,Sedang,Ya
+24,L,TE,Tidak Aktif,Aktif,6,2.98,2.53,Rendah,Ya
+21,L,TS,BEM,Aktif,6,3.58,2.25,Rendah,Ya
+19,P,TS,HIMA,Kurang Aktif,8,3.28,3.04,Tinggi,Tidak
+23,P,TM,UKM Musik,Pasif,3,3.86,2.31,Rendah,Tidak
+22,L,TM,Tidak Aktif,Kurang Aktif,3,2.59,2.07,Tinggi,Ya
+20,L,TI,Tidak Aktif,Aktif,7,2.14,3.27,Sedang,Ya
+20,P,TM,HIMA,Aktif,2,3.64,2.09,Rendah,Tidak
+21,P,TM,UKM Olahraga,Kurang Aktif,4,2.31,2.06,Rendah,Tidak
+20,P,TM,UKM Olahraga,Sangat Aktif,8,2.39,2.73,Rendah,Ya
+21,L,TS,BEM,Sangat Aktif,2,3.61,2.47,Rendah,Tidak
+23,L,TM,UKM Olahraga,Sangat Aktif,2,3.2,3.93,Rendah,Tidak
+22,P,TE,UKM Musik,Pasif,2,3.51,3.19,Sedang,Tidak
+21,L,TS,UKM Olahraga,Kurang Aktif,3,3.9,3.42,Rendah,Ya
+24,P,TM,UKM Musik,Aktif,3,3.83,2.52,Tinggi,Ya
+19,P,TI,UKM Olahraga,Aktif,1,3.88,2.07,Rendah,Tidak
+18,P,TI,HIMA,Pasif,1,2.47,2.8,Rendah,Tidak
+21,L,TE,HIMA,Kurang Aktif,4,2.45,2.86,Tinggi,Tidak
+23,P,TI,UKM Olahraga,Sangat Aktif,5,3.73,2.2,Rendah,Tidak
+22,P,TI,UKM Musik,Sangat Aktif,8,3.92,2.14,Rendah,Tidak
+21,L,TS,UKM Olahraga,Aktif,2,2.5,2.19,Sedang,Ya
+20,P,TE,UKM Olahraga,Aktif,8,3.7,3.6,Sedang,Tidak
+18,P,TE,UKM Musik,Pasif,7,2.74,2.81,Sedang,Ya
+24,P,TS,HIMA,Sangat Aktif,1,2.26,2.52,Tinggi,Tidak
+19,L,TI,UKM Musik,Pasif,7,2.84,3.37,Sedang,Tidak
+22,P,TM,BEM,Kurang Aktif,5,2.65,2.81,Tinggi,Ya
+20,P,TI,HIMA,Sangat Aktif,7,3.91,2.34,Tinggi,Ya
+19,L,TI,Tidak Aktif,Kurang Aktif,3,3.81,3.26,Rendah,Ya
+21,L,TE,BEM,Sangat Aktif,6,2.41,2.17,Sedang,Ya
+24,P,TS,BEM,Kurang Aktif,3,3.32,3.92,Sedang,Ya
+22,L,TM,HIMA,Kurang Aktif,6,3.3,2.37,Sedang,Ya
+23,L,TM,UKM Olahraga,Sangat Aktif,1,2.91,3.71,Tinggi,Tidak
+18,P,TM,UKM Musik,Pasif,3,2.95,2.44,Sedang,Tidak
+20,L,TM,UKM Musik,Pasif,7,3.66,2.72,Tinggi,Ya
+21,P,TM,BEM,Sangat Aktif,4,2.52,2.48,Rendah,Tidak
+18,L,TI,UKM Musik,Sangat Aktif,8,2.42,3.84,Sedang,Tidak
+21,P,TS,UKM Musik,Aktif,3,3.78,2.5,Sedang,Ya
+22,L,TE,BEM,Sangat Aktif,4,3.27,2.05,Tinggi,Ya
+22,L,TM,Tidak Aktif,Aktif,4,3.97,3.31,Rendah,Ya
+21,P,TM,UKM Musik,Sangat Aktif,3,2.88,2.89,Sedang,Ya
+21,L,TE,Tidak Aktif,Kurang Aktif,1,3.74,2.74,Sedang,Ya
+20,P,TI,UKM Olahraga,Sangat Aktif,5,3.15,2.23,Rendah,Ya
+18,P,TI,UKM Olahraga,Pasif,6,3.31,2.85,Sedang,Tidak
+24,L,TM,UKM Musik,Sangat Aktif,4,3.17,3.16,Sedang,Tidak
+21,P,TI,HIMA,Kurang Aktif,8,2.4,3.18,Rendah,Tidak
+20,L,TM,UKM Olahraga,Sangat Aktif,6,3.53,3.07,Sedang,Tidak
+23,L,TS,BEM,Aktif,2,2.79,3.11,Rendah,Tidak
+21,P,TE,BEM,Pasif,2,2.35,3.3,Rendah,Tidak
+19,L,TS,UKM Musik,Sangat Aktif,6,2.88,2.82,Sedang,Tidak
+22,L,TI,UKM Olahraga,Kurang Aktif,2,2.92,3.1,Rendah,Tidak
+24,P,TI,HIMA,Aktif,2,3.22,2.38,Sedang,Ya
+18,P,TE,UKM Musik,Sangat Aktif,7,3.29,2.25,Rendah,Ya
+21,P,TE,UKM Olahraga,Sangat Aktif,2,3.01,3.57,Tinggi,Ya
+18,P,TM,UKM Olahraga,Aktif,2,2.17,2.85,Rendah,Ya
+23,L,TE,UKM Musik,Pasif,2,3.91,2.59,Sedang,Tidak
+24,L,TE,HIMA,Kurang Aktif,4,3.65,2.68,Sedang,Tidak
+21,L,TE,HIMA,Kurang Aktif,8,3.66,2.05,Sedang,Tidak
+20,L,TE,BEM,Aktif,5,3.11,2.36,Rendah,Ya
+23,L,TI,Tidak Aktif,Pasif,1,3.58,2.76,Rendah,Tidak
+22,P,TS,HIMA,Pasif,4,3.16,3.53,Tinggi,Tidak
+23,L,TS,BEM,Aktif,1,3.19,2.54,Rendah,Tidak
+23,L,TE,UKM Musik,Sangat Aktif,4,3.91,3.17,Sedang,Ya
+22,P,TE,HIMA,Kurang Aktif,6,3.77,3.3,Tinggi,Tidak
+19,P,TS,UKM Olahraga,Aktif,3,3.07,3.06,Sedang,Ya
+23,P,TI,Tidak Aktif,Pasif,2,3.41,3.63,Rendah,Tidak
+22,L,TI,BEM,Sangat Aktif,6,2.44,2.16,Tinggi,Ya
+22,P,TI,BEM,Pasif,2,2.28,3.3,Tinggi,Ya
+19,P,TM,BEM,Kurang Aktif,1,2.16,3.91,Rendah,Ya
+19,P,TI,BEM,Sangat Aktif,5,3.19,3.05,Tinggi,Tidak
+18,P,TM,UKM Musik,Aktif,8,3.03,3.67,Rendah,Ya
+22,L,TM,UKM Olahraga,Pasif,2,2.51,2.51,Rendah,Ya
+22,L,TS,UKM Olahraga,Sangat Aktif,1,2.95,3.04,Rendah,Tidak
+24,L,TE,Tidak Aktif,Pasif,7,2.16,3.3,Rendah,Ya
+24,P,TE,Tidak Aktif,Sangat Aktif,3,2.52,2.33,Sedang,Ya
+24,P,TS,UKM Olahraga,Sangat Aktif,2,3.0,2.57,Sedang,Ya
+22,L,TM,UKM Musik,Pasif,2,3.36,2.93,Rendah,Ya
+20,P,TM,HIMA,Sangat Aktif,8,2.08,3.9,Sedang,Tidak
+21,P,TS,UKM Musik,Aktif,1,2.05,3.89,Rendah,Ya
+18,L,TM,BEM,Pasif,3,3.95,2.55,Tinggi,Tidak
+23,L,TI,UKM Olahraga,Aktif,6,3.94,3.8,Sedang,Tidak
+18,L,TM,Tidak Aktif,Pasif,6,3.49,3.32,Tinggi,Tidak
+21,P,TS,BEM,Aktif,3,2.91,3.56,Sedang,Tidak
+23,L,TS,Tidak Aktif,Pasif,8,2.15,3.04,Tinggi,Tidak
+20,P,TM,Tidak Aktif,Sangat Aktif,6,2.11,3.67,Tinggi,Ya
+19,L,TE,HIMA,Aktif,7,2.56,3.35,Sedang,Ya
+20,L,TM,HIMA,Pasif,3,3.35,2.63,Tinggi,Tidak
+24,L,TM,Tidak Aktif,Sangat Aktif,6,3.15,2.92,Rendah,Tidak
+21,L,TM,BEM,Aktif,4,2.23,3.85,Tinggi,Ya
+23,P,TM,UKM Musik,Kurang Aktif,7,3.05,3.86,Sedang,Tidak
+18,P,TM,BEM,Pasif,6,2.59,2.18,Rendah,Ya
+23,L,TS,UKM Olahraga,Pasif,3,2.55,2.05,Tinggi,Tidak
+24,L,TI,Tidak Aktif,Aktif,3,2.51,3.5,Rendah,Ya
+21,P,TI,HIMA,Pasif,4,3.42,3.04,Rendah,Ya
+20,L,TS,Tidak Aktif,Sangat Aktif,6,2.03,3.24,Sedang,Ya
+20,L,TE,UKM Olahraga,Aktif,2,3.02,3.35,Tinggi,Tidak
+19,P,TE,UKM Olahraga,Sangat Aktif,1,2.93,3.7,Tinggi,Ya
+20,P,TE,Tidak Aktif,Sangat Aktif,5,2.14,2.46,Sedang,Tidak
+19,P,TI,UKM Olahraga,Sangat Aktif,1,2.65,2.89,Rendah,Tidak
+24,L,TM,UKM Musik,Sangat Aktif,8,3.25,2.68,Sedang,Ya
+22,L,TS,HIMA,Kurang Aktif,5,3.74,2.71,Sedang,Ya
+20,L,TE,BEM,Sangat Aktif,3,3.36,3.11,Tinggi,Tidak
+24,P,TI,BEM,Sangat Aktif,1,2.49,3.67,Sedang,Ya
+24,P,TM,Tidak Aktif,Pasif,1,2.2,2.92,Sedang,Ya
+21,L,TM,HIMA,Kurang Aktif,7,2.67,3.91,Rendah,Ya
+19,L,TE,UKM Olahraga,Sangat Aktif,2,2.28,2.37,Sedang,Ya
+20,L,TM,UKM Olahraga,Pasif,5,2.1,2.63,Tinggi,Tidak
+24,P,TS,UKM Musik,Aktif,7,3.64,3.5,Tinggi,Ya
+20,L,TE,UKM Olahraga,Pasif,6,2.58,2.24,Sedang,Ya
+23,L,TM,HIMA,Aktif,4,3.67,3.92,Rendah,Ya
+18,P,TI,UKM Olahraga,Aktif,3,3.75,2.65,Tinggi,Tidak
+19,P,TE,UKM Musik,Kurang Aktif,6,2.64,2.48,Rendah,Tidak
+21,P,TS,UKM Musik,Sangat Aktif,2,2.54,2.29,Rendah,Ya
+22,L,TS,HIMA,Kurang Aktif,6,2.51,3.0,Sedang,Tidak
+18,P,TS,HIMA,Sangat Aktif,7,3.18,2.15,Sedang,Tidak
+18,P,TS,HIMA,Aktif,1,3.37,2.31,Tinggi,Tidak
+22,L,TE,BEM,Pasif,1,3.26,3.62,Tinggi,Ya
+21,L,TE,HIMA,Sangat Aktif,1,3.12,3.94,Rendah,Ya
+20,L,TM,HIMA,Aktif,2,2.85,2.96,Rendah,Tidak
+18,L,TI,UKM Musik,Pasif,3,3.7,2.92,Tinggi,Ya
+24,P,TM,BEM,Aktif,7,3.78,2.85,Sedang,Ya
+22,P,TS,BEM,Aktif,5,2.05,2.1,Tinggi,Ya
+18,L,TM,UKM Olahraga,Kurang Aktif,8,3.49,2.67,Sedang,Tidak
+21,L,TE,BEM,Sangat Aktif,4,2.81,2.56,Rendah,Tidak
+23,L,TI,UKM Musik,Sangat Aktif,7,3.05,3.52,Sedang,Tidak
+21,L,TE,UKM Olahraga,Pasif,5,2.56,2.67,Sedang,Tidak
+24,L,TE,HIMA,Pasif,8,3.69,2.01,Tinggi,Ya
+22,L,TM,BEM,Aktif,5,2.96,3.75,Rendah,Ya
+24,P,TS,Tidak Aktif,Kurang Aktif,5,2.14,2.47,Sedang,Tidak
+22,L,TS,Tidak Aktif,Aktif,5,3.89,2.71,Sedang,Ya
+19,L,TS,HIMA,Aktif,2,2.15,2.27,Rendah,Ya
+19,L,TM,HIMA,Kurang Aktif,1,3.54,2.64,Tinggi,Tidak
+23,L,TS,Tidak Aktif,Kurang Aktif,3,3.19,3.01,Tinggi,Ya
+20,P,TM,HIMA,Kurang Aktif,5,3.7,3.53,Sedang,Ya
+24,P,TE,BEM,Sangat Aktif,6,3.12,2.64,Tinggi,Ya
+24,L,TI,UKM Musik,Pasif,8,2.05,2.72,Rendah,Ya
+23,P,TE,Tidak Aktif,Kurang Aktif,3,2.65,2.03,Rendah,Ya
+19,P,TM,Tidak Aktif,Kurang Aktif,8,2.75,3.6,Rendah,Ya
+23,P,TM,Tidak Aktif,Kurang Aktif,5,2.7,2.74,Tinggi,Ya
+19,L,TS,HIMA,Kurang Aktif,6,3.51,2.24,Sedang,Ya
+19,L,TI,UKM Olahraga,Sangat Aktif,1,3.35,2.24,Tinggi,Tidak
+20,P,TI,UKM Musik,Pasif,6,3.13,2.35,Rendah,Ya
+20,L,TE,UKM Olahraga,Aktif,3,2.5,3.43,Sedang,Tidak
+18,P,TM,UKM Musik,Sangat Aktif,7,2.72,3.42,Tinggi,Ya
+18,P,TI,HIMA,Pasif,5,3.96,2.46,Tinggi,Tidak
+23,P,TM,UKM Olahraga,Aktif,5,3.52,3.77,Rendah,Ya
+21,P,TS,UKM Olahraga,Kurang Aktif,5,2.6,3.87,Rendah,Tidak
+24,L,TS,UKM Musik,Aktif,4,2.5,2.37,Sedang,Tidak
+22,P,TI,HIMA,Kurang Aktif,4,2.39,2.89,Tinggi,Tidak
+24,L,TS,Tidak Aktif,Pasif,4,2.11,2.89,Tinggi,Ya
+20,P,TS,UKM Olahraga,Kurang Aktif,5,3.84,3.57,Rendah,Ya
+21,L,TS,HIMA,Pasif,2,2.34,3.26,Sedang,Ya
+22,P,TI,Tidak Aktif,Sangat Aktif,4,2.54,2.86,Sedang,Ya
+24,P,TS,Tidak Aktif,Sangat Aktif,8,2.23,3.32,Sedang,Ya
+20,P,TS,HIMA,Aktif,4,3.54,3.13,Sedang,Tidak
+18,L,TI,UKM Olahraga,Kurang Aktif,8,2.43,2.72,Tinggi,Ya
+18,P,TE,BEM,Kurang Aktif,6,2.42,2.59,Rendah,Tidak
+23,L,TS,BEM,Aktif,2,3.6,3.31,Sedang,Ya
+24,L,TM,UKM Musik,Pasif,5,3.25,3.73,Sedang,Ya
+19,P,TS,Tidak Aktif,Pasif,1,2.7,3.97,Rendah,Ya
+18,P,TE,UKM Olahraga,Sangat Aktif,7,2.94,2.25,Tinggi,Ya
+21,L,TM,UKM Olahraga,Pasif,8,3.6,2.54,Sedang,Tidak
+18,L,TM,HIMA,Kurang Aktif,5,2.29,3.21,Sedang,Ya
+22,P,TM,Tidak Aktif,Kurang Aktif,7,2.43,2.81,Tinggi,Tidak
+22,P,TI,HIMA,Pasif,7,3.52,3.91,Sedang,Tidak
+18,P,TS,UKM Olahraga,Pasif,6,2.44,2.22,Sedang,Ya
+18,L,TI,Tidak Aktif,Pasif,5,2.36,2.88,Sedang,Tidak
+20,L,TE,UKM Olahraga,Sangat Aktif,3,2.23,3.69,Sedang,Tidak
+21,P,TE,UKM Musik,Pasif,4,2.2,2.69,Rendah,Tidak
+23,P,TI,BEM,Sangat Aktif,8,3.07,2.38,Rendah,Tidak
+23,L,TI,HIMA,Pasif,5,2.73,3.94,Rendah,Ya
+20,P,TI,UKM Musik,Kurang Aktif,7,2.51,3.69,Rendah,Ya
+23,L,TM,Tidak Aktif,Sangat Aktif,6,2.77,2.15,Rendah,Tidak
+18,L,TM,BEM,Kurang Aktif,1,2.42,3.53,Tinggi,Ya
+24,P,TS,UKM Musik,Aktif,6,2.92,2.07,Sedang,Ya
+24,L,TM,UKM Musik,Sangat Aktif,3,3.22,3.62,Rendah,Ya
+22,P,TM,BEM,Kurang Aktif,6,3.89,2.12,Sedang,Ya
+23,L,TM,HIMA,Pasif,6,2.1,3.77,Rendah,Ya
+23,P,TE,BEM,Aktif,3,2.76,2.36,Rendah,Ya
+20,P,TE,UKM Olahraga,Kurang Aktif,5,3.91,2.97,Sedang,Ya
+23,P,TM,UKM Olahraga,Pasif,7,3.53,2.36,Rendah,Tidak
+19,P,TM,BEM,Pasif,3,3.11,2.6,Tinggi,Tidak
+22,L,TM,HIMA,Pasif,6,3.48,2.7,Tinggi,Ya
+24,P,TE,HIMA,Pasif,1,2.9,2.91,Sedang,Tidak
+24,P,TM,UKM Olahraga,Aktif,2,2.93,2.34,Tinggi,Ya
+19,P,TS,BEM,Sangat Aktif,6,3.65,2.61,Rendah,Ya
+20,P,TE,HIMA,Kurang Aktif,3,3.06,2.92,Sedang,Tidak
+19,P,TS,HIMA,Sangat Aktif,7,2.65,2.48,Sedang,Ya
+23,P,TI,Tidak Aktif,Aktif,8,2.55,2.11,Sedang,Tidak
+18,L,TE,UKM Musik,Pasif,5,2.57,2.59,Sedang,Ya
+23,L,TM,UKM Musik,Aktif,8,3.56,3.49,Tinggi,Ya
+24,L,TM,UKM Musik,Pasif,7,3.07,2.59,Tinggi,Tidak
+18,P,TI,HIMA,Kurang Aktif,2,2.0,3.62,Sedang,Tidak
+18,L,TE,BEM,Kurang Aktif,3,2.68,3.7,Rendah,Ya
+23,L,TE,BEM,Sangat Aktif,6,3.16,3.91,Sedang,Ya
+23,L,TM,Tidak Aktif,Kurang Aktif,1,3.84,2.87,Sedang,Ya
+19,P,TM,BEM,Sangat Aktif,8,3.09,2.01,Sedang,Tidak
+24,P,TS,UKM Musik,Kurang Aktif,1,3.83,3.87,Sedang,Ya
+20,L,TM,UKM Olahraga,Sangat Aktif,5,3.87,2.21,Sedang,Ya
+23,L,TI,BEM,Sangat Aktif,2,2.9,2.91,Sedang,Tidak
+21,L,TI,UKM Olahraga,Sangat Aktif,1,3.09,3.73,Sedang,Ya
+22,P,TS,UKM Musik,Pasif,8,2.65,3.17,Sedang,Tidak
+20,L,TM,UKM Musik,Sangat Aktif,1,2.03,3.08,Sedang,Tidak
+24,P,TM,Tidak Aktif,Pasif,1,3.82,3.14,Tinggi,Ya
+23,L,TS,BEM,Kurang Aktif,4,2.56,2.65,Sedang,Tidak
+23,P,TS,BEM,Pasif,4,3.3,2.6,Tinggi,Ya
+20,P,TE,Tidak Aktif,Pasif,4,2.86,3.77,Rendah,Ya
+19,L,TS,BEM,Sangat Aktif,3,2.06,3.98,Rendah,Ya
+23,L,TS,BEM,Sangat Aktif,1,2.09,3.14,Rendah,Ya
+21,P,TS,Tidak Aktif,Aktif,5,2.04,3.12,Sedang,Ya
+19,L,TS,HIMA,Sangat Aktif,8,3.09,2.32,Tinggi,Tidak
+24,L,TE,Tidak Aktif,Kurang Aktif,6,2.42,3.66,Sedang,Ya
+21,L,TS,BEM,Pasif,4,2.43,3.18,Rendah,Tidak
+19,P,TI,Tidak Aktif,Aktif,8,2.43,3.43,Sedang,Tidak
+21,P,TE,HIMA,Aktif,7,2.34,2.71,Tinggi,Tidak
+19,P,TI,UKM Musik,Sangat Aktif,1,2.22,2.47,Sedang,Ya
+24,L,TE,UKM Musik,Sangat Aktif,5,2.58,3.55,Sedang,Tidak
+24,L,TE,HIMA,Aktif,1,3.42,2.57,Tinggi,Tidak
+19,L,TI,HIMA,Kurang Aktif,2,3.87,2.8,Tinggi,Tidak
+23,L,TS,UKM Olahraga,Kurang Aktif,1,2.81,2.89,Sedang,Tidak
+24,L,TE,HIMA,Aktif,5,3.79,3.89,Tinggi,Tidak
+21,L,TM,BEM,Pasif,7,2.84,2.67,Tinggi,Tidak
+18,L,TE,HIMA,Sangat Aktif,4,3.54,3.11,Tinggi,Ya
+19,P,TM,Tidak Aktif,Pasif,8,2.97,2.28,Tinggi,Tidak
+20,L,TI,UKM Olahraga,Sangat Aktif,7,2.68,3.67,Sedang,Tidak
